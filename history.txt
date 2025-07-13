@@ -1,0 +1,8 @@
+deposit 1000 income
+withdraw 500 expense
+deposit 20000 income
+deposit 100 income
+withdraw 4 expense
+deposit 33333 income
+deposit 2222 income
+withdraw 22222 expense
