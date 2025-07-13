@@ -19,7 +19,7 @@ int inpin;
 int attempts=3,pin=1234;
 while(attempts>0)
 {
-    printf("enter pin \n");
+    printf("enter 1234 to continue \n");
     scanf("%d",&inpin);
     if(pin==inpin)
     {
